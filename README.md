@@ -24,8 +24,8 @@ This app configuration allows for a comfortable and very modern design. It also 
 🔍 Search your notes  
 🔄 Notes are automatically saved after the first save  
 📜 Upgrade to premium for additional cooler features:  
-    &nbsp;👑Ads free  
-    &nbsp;👑Note Icons change according to your theme style (In the free version Icons color is grey)
+&nbsp;&nbsp;&nbsp;&nbsp;👑Ads free  
+&nbsp;&nbsp;&nbsp;&nbsp;👑Note Icons change according to your theme style (In the free version Icons color is grey)
 
 Thank you for choosing Spring Notes! 💛
 
