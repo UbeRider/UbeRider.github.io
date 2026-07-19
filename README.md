@@ -29,4 +29,4 @@ This app configuration allows for a comfortable and very modern design. It also 
 
 Thank you for choosing Spring Notes! 💛
 
-                                           [Privacy Policy](https://appspringnotes.my.canva.site/)
+[Privacy Policy](https://appspringnotes.my.canva.site/)
