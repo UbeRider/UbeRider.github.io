@@ -28,3 +28,5 @@ This app configuration allows for a comfortable and very modern design. It also 
     &nbsp;👑Note Icons change according to your theme style (In the free version Icons color is grey)
 
 Thank you for choosing Spring Notes! 💛
+
+                                           [Privacy Policy](https://appspringnotes.my.canva.site/)
