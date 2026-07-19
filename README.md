@@ -1,5 +1,6 @@
 
                                                           Spring Notes
+                                                          
 Spring Notes is an app designed around commodity and ease of use. You can add notes right away and organize them under custom categories. You can also cross out notes to indicate the task or note has been completed✔️.
 
 Spring Notes provides a visually inmersive design that you can customize using one of our available themes: Pandora, CristalSky, RosePetal, Greenland and Vintage. You can select the theme that reflects your current mood or your personality. 
