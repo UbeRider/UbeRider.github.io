@@ -1,5 +1,5 @@
 
-                                                          Spring Notes
+                                                          Spring your ideas to life!
                                                           
 Spring Notes is an app designed around commodity and ease of use. You can add notes right away and organize them under custom categories. You can also cross out notes to indicate the task or note has been completed✔️.
 
